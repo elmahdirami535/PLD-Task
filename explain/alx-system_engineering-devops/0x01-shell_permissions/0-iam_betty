@@ -1,2 +1,2 @@
-#!/bin/bash
-su betty
+#!/bin/bash    #this is a shebang line
+su betty       #change the user to betty su mean switch user, betty is the user name
