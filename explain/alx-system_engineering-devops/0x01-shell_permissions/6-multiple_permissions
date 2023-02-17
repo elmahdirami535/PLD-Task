@@ -1,2 +1,7 @@
-#!/bin/bash
-chmod 754 hello 
+#!/bin/bash             #this is a shebang line
+chmod 754 hello         #here we have the same as we explain in the 5-execute
+                        #for the user we have 7 for the group owner we have 5 for the other user we have 4
+                        #witch mean 7 = rwx
+                        #5 = r-x
+                        #4 = r--
+                        #and that's how we have 754 mean also rwx r-x r--

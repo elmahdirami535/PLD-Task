@@ -1,2 +1,2 @@
-#!/bin/bash
-sudo chown betty hello
+#!/bin/bash                      #this is a shebang line
+sudo chown betty hello           #sudo mean superuser to change the owner of the file to new owner called betty

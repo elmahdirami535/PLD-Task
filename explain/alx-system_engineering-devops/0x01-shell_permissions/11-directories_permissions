@@ -1,2 +1,5 @@
-#!/bin/bash
-chmod -R +X .
+#!/bin/bash       #this is a shebang line
+chmod -R +X .     #chmod is the command used to change permissions of files and directories.
+                  #-R  is an option that tells chmod to perform the operation recursively on all directories and their contents within the current directory.
+                  #. specifies the current directory as the target of the chmod command. 
+                  #This means that the command will change the permissions of all directories and files in the current working directory.

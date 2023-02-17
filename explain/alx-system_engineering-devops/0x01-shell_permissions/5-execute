@@ -1,2 +1,12 @@
-#!/bin/bash
-chmod 744 hello
+#!/bin/bash              #this is a shebang line
+chmod 744 hello          #chmod mean change the file or folder permission 
+                         # rwxrwxrwx 
+                         #  1  2  3    as you see the first rwx is for the file owner
+                         # the second rwx is for the group owner 
+                         # the third rwx is for the other users 
+                         # r = read , w = write , x = execute
+                         #the role say rwx = 7 
+                         #r = 4  w = 2  x = 1
+                         #to count them we have the first rwx to count it as we said r 4 + w 2 = 6 + x 1 = 7 so in the first we have 7
+                         #also the same for the secon and the third we have 4 witch mean just r 4  
+                         #in this example we have 744 witch mean rwx r-- r--

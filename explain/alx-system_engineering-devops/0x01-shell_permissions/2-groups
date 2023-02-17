@@ -1,2 +1,2 @@
-#!/bin/bash
-groups
+#!/bin/bash    #this is a shebang line
+groups         #this command displays the group to which the current user belongs

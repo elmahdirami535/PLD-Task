@@ -1,2 +1,2 @@
-#!/bin/bash
-chmod 753 hello
+#!/bin/bash            #this is a shebang line
+chmod 753 hello        #in this example we give to the user rwx and to ther group owner r-x and to other user -wx
