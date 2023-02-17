@@ -1,0 +1,2 @@
+#!/bin/bash           #this is a shebang line
+file /tmp/iamafile    #file command is used to determine the type of a file , such as a regular file , directiry or a symbolic link and here it determin the iamafile

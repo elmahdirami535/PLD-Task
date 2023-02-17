@@ -1,0 +1,2 @@
+#!/bin/bash                          #this is a shebnag line
+rm /tmp/my_first_directory/betty     #remove the file betty that exist in my_first_directory in rmp folder

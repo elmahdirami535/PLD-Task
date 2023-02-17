@@ -1,0 +1,2 @@
+#!/bin/bash         #this is a shebang ling
+ls -al . .. /boot   #lists the contents of the current directory (.), the parent directory (..), and the /boot directory in a long format that includes hidden files (-a option).

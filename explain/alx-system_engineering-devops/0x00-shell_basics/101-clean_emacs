@@ -1,0 +1,2 @@
+#!/bin/bash    #this is a shebang line
+rm *~          #removes all files in the current directory that end with a tilde (~) character.

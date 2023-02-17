@@ -1,0 +1,2 @@
+#!/bin/bash                    #this is a shebang line
+mkdir -p welcome/to/school     #creates a directory structure with three nested subdirectories: welcome, to, and school. If any of these directories do not already exist, the command creates them. The -p option ensures that the command creates all necessary parent directories as well, without returning an error if they already exist.

@@ -1,0 +1,2 @@
+#!/bin/bash     #this is a shebang line
+ls -l           #ls to list directory -l to display the contents of a directory in a long format.

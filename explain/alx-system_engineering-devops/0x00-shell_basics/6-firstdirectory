@@ -1,0 +1,2 @@
+#!/bin/bash                        #this is a shebang line 
+mkdir /tmp/my_first_directory/     #create a folder called my_first_directory inside of tmp folder 

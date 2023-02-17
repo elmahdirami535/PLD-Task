@@ -1,0 +1,2 @@
+#!/bin/bash    #this is a shebang line
+ls -a -l       #ls -l to display the content of a directory in long format -a to display the hidden folder that start with .

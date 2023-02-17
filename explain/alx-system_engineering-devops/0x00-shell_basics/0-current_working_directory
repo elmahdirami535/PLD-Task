@@ -1,0 +1,2 @@
+#!/bin/bash        #this is a shebang line
+pwd                #print the working directory 
