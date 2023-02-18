@@ -1,2 +1,6 @@
-#!/bin/bash
-chown --from=guillaume betty hello
+#!/bin/bash                            #This is a shebang line
+chown --from=guillaume betty hello     #This command changes the ownership of the file or directory named "hello" to the same owner as the file or directory named "betty".
+                                       #chown: This command is short for "change owner" and is used to change the ownership of a file or directory.
+                                       #--from=guillaume: This option specifies the name of the owner whose ownership is being copied. In this case, the owner is "guillaume".
+                                       #betty: This is the name of the file or directory that has the ownership that we want to copy.
+                                       #hello: This is the name of the file or directory whose ownership is being changed to match the ownership of "betty".

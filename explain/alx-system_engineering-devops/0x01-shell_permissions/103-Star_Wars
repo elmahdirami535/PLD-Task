@@ -1,2 +1,5 @@
-#!/bin/bash
-telnet towel.blinkenlights.nl
+#!/bin/bash                       #this is a shebang line
+telnet towel.blinkenlights.nl     #This command uses the Telnet protocol to connect to the server named "towel.blinkenlights.nl".
+                                  #telnet: This is the command used to initiate a Telnet session from the command line.
+                                  #towel.blinkenlights.nl: This is the domain name of the server to which we want to connect.
+                                  #This server is known to host the ASCII art animation of the Star Wars movie.
