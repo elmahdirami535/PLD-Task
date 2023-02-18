@@ -1,2 +1,2 @@
-#!/bin/bash
-export BEST="School"
+#!/bin/bash                    #this is a shebang line
+export BEST="School" 
