@@ -1,2 +1,2 @@
 #!/bin/bash              #this is a sheban line
-echo "\"(Ôo)'"
+echo "\"(Ôo)'"           #echo command 

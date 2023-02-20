@@ -1,2 +1,2 @@
 #!/bin/bash                #this is a sheban line
-echo "Hello, World"
+echo "Hello, World"        #echo is used to print the words in braket
