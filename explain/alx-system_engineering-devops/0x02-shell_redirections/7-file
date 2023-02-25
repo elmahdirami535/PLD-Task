@@ -1,2 +1,3 @@
-#!/bin/bash                                                                                    #this is a sheban line
+#!/bin/bash     
 echo "Best School" > \\\*\\\\"'\"Best School\"\\'"\\\\*\$\\\?\\\*\\\*\\\*\\\*\\\*\:\)
+                       '\*\\'\''"Best School"\'\''\\*$\?\*\*\*\*\*:)'
