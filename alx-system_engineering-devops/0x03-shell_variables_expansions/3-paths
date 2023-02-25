@@ -1,0 +1,2 @@
+#!/bin/bash                                  #this is a shebang line
+echo $PATH | tr ":" "\n" | wc -l

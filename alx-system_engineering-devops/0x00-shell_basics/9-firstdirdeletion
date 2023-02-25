@@ -1,0 +1,2 @@
+#!/bin/bash                            #this is a shebang line
+rm -r /tmp/my_first_directory/         #remove -r The -r option tells rm to delete the directory and its contents recursively, including all files and subdirectories within it.

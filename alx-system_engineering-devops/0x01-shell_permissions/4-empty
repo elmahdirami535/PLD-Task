@@ -1,0 +1,2 @@
+#!/bin/bash        #this is a shebang line
+touch hello        #touch is used to create a file , and here we create a file called hello

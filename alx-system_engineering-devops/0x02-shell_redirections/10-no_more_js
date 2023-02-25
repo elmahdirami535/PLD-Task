@@ -1,0 +1,2 @@
+#!/bin/bash                                 #this is a sheban line
+find . -type f -name "*.js" -delete

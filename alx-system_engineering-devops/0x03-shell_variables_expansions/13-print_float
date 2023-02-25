@@ -1,0 +1,2 @@
+#!/bin/bash               #this is a shebang line
+printf "%.2f\n" $NUM 

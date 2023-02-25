@@ -1,0 +1,2 @@
+#!/bin/bash               #this is a shebang line
+ln -s /bin/ls __ls__      #creates a symbolic link named __ls__ in the current directory that points to the /bin/ls binary executable file. -s: This is an option that specifies that the link to be created is a symbolic link, which is a special type of file that acts as a pointer to another file or directory.

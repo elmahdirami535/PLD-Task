@@ -1,0 +1,2 @@
+#!/bin/bash                 #this is a sheban line
+tail -1 iacta >> iacta

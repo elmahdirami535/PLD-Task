@@ -1,0 +1,9 @@
+#!/bin/bash                            #this is a shebang line 
+sudo chown -h vincent:staff _hello     #This command changes the ownership of the file or directory named "_hello" to the user "vincent" and the group "staff".
+                                       #sudo: This command is used to run the following command with administrative privileges.
+                                       #chown: This command is short for "change owner" and is used to change the ownership of a file or directory.
+                                       #-h: This option is used to modify the ownership of a symbolic link itself, rather than the file or directory it points to.
+                                       # If _hello is a symbolic link, this option is needed to change the ownership of the link itself.
+                                       #vincent: This is the name of the user that the file or directory ownership will be changed to.
+                                       #staff: This is the name of the group that the file or directory ownership will be changed to.
+                                       #_hello: This is the name of the file or directory whose ownership is being changed.

@@ -1,0 +1,2 @@
+#!/bin/bash              #this is a shebang line
+chmod 007 hello          #here we give to the owner 0 permission and to the group owner 0permission and to the other user all permission

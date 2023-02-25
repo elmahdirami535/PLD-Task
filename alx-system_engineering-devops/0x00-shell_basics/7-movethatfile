@@ -1,0 +1,2 @@
+#!/bin/bash                                  #this is a shebnag line
+mv /tmp/betty /tmp/my_first_directory        #move the folder that exist in tmp and called betty to the folder my_first_directory that exist in side the tmp folder

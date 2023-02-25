@@ -1,0 +1,2 @@
+#!/bin/bash               #this is a shebang line
+mv [[:upper:]]* /tmp/u    #moves all files and directories that start with an uppercase letter from the current directory to the /tmp/u directory.

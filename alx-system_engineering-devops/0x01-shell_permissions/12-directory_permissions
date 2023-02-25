@@ -1,0 +1,5 @@
+#!/bin/bash                #this is a shebang line
+mkdir -m 751 my_dir        #mkdir is used to create a folder 
+                           #and the -m is an option that specifies the permissions mode to be set for the new directory
+                           #751 is the permission for the directrory in this case it's rwx r-x --x
+                           #my_dir it's the name of the new directroy

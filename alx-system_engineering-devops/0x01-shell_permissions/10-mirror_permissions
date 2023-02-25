@@ -1,0 +1,4 @@
+#!/bin/bash                         #this is a shebang line 
+chmod --reference=olleh hello       #means that we want to change the permissions of the hello file to be the same as the olleh file.
+                                    #This can be useful when you want to set the permissions of a file to match another file
+                                    # without having to manually set the permissions.

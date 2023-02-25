@@ -1,0 +1,5 @@
+#!/bin/bash                 #this is a shebang line
+chown -R vincent:staff *    #chown is the command used to change the owner and group of files and directories.
+                            #-R is an option that specifies that the command should be performed recursively on all directories and their contents within the current directory.
+                            #vincent:staff specifies the new owner and group for the files and directories. In this case, "vincent" is the new owner, and "staff" is the new group.
+                            #* specifies that the command should be performed on all files and directories within the current directory and its subdirectories.

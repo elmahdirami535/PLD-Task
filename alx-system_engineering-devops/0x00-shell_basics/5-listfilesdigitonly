@@ -1,0 +1,2 @@
+#!/bin/bash  #this is a shebang line 
+ls -l -a -n  #ls -la to display the content including hidden file of a directory -n it displays the numeric UID (user ID) and GID (group ID) of the file or directory.

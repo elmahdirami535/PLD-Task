@@ -1,0 +1,3 @@
+#!/bin/bash         #this is a shebang line 
+chmod +x hello      #chmod is used to change file permission and here we say all user and group and other users 
+                    #add to them execute permission = x

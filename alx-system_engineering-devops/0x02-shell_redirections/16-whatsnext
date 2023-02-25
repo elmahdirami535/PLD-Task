@@ -1,0 +1,2 @@
+#!/bin/bash                              #this is a shebang line
+grep -A 3 "root" /etc/passwd

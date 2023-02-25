@@ -1,0 +1,2 @@
+#!/bin/bash      #this is a shebang line
+ls -al -m -p     #ls -al list all file and directory includding also hidden directory and files -m separeted by a commas -p append a slash (/) to the end of each directory name, 

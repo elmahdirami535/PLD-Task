@@ -1,0 +1,2 @@
+#!/bin/bash                      #this is a sheban line
+cat /etc/passwd /etc/hosts

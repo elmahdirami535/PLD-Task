@@ -1,0 +1,2 @@
+#!/bin/bash            #this is a shebang line
+cp *.html /tmp/        #(cp) copie (*) all the file and directory in the current directory that end with .html to tmp directory

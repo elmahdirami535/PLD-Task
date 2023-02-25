@@ -1,0 +1,2 @@
+#!/bin/bash                                             #this is a shebang line
+echo {a..z}{a..z} | tr ' ' '\n' | grep -v 'oo'

@@ -1,0 +1,2 @@
+#!/bin/bash             #this is a shebang line
+chgrp school hello      #chgrp is used to change the file's group ownership and here we change the file hello to the school group

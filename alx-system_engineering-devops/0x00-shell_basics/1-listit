@@ -1,0 +1,2 @@
+#!/bin/bash   #this is a shebang line
+ls            #list the file content

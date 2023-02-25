@@ -1,0 +1,2 @@
+#!/bin/bash                                     #this is a shebang line
+cut -d ':' -f 1,6 /etc/passwd | sort
